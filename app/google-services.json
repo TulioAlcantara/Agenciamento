@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "133451900165",
+    "firebase_url": "https://apoema-charset.firebaseio.com",
+    "project_id": "apoema-charset",
+    "storage_bucket": "apoema-charset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133451900165:android:97df578f827eb71a",
+        "android_client_info": {
+          "package_name": "com.example.agenciamento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133451900165-0oincop9prubrk068560gre3mmea4f8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agenciamento",
+            "certificate_hash": "170a1f5f38e101ab4d320144ca727a32c650ff33"
+          }
+        },
+        {
+          "client_id": "133451900165-g6s3i1e58cttbhipoejvi07has2vlq02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrj299m0qjJpo3PbgRRnS0J9VIZfvls50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133451900165-g6s3i1e58cttbhipoejvi07has2vlq02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
